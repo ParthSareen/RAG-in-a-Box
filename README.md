@@ -1,4 +1,4 @@
-# RAG-in-a-box
+# Simple RAG
 
 <p align="center">
   <img src="mascot.webp" alt="RAG-in-a-box Mascot" width="400" height="400">
